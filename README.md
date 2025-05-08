@@ -15,5 +15,9 @@ The **Clinical Booking System Database** is designed to efficiently manage patie
 ### 1️⃣ **Clone the Repository**
 If using a project directory, clone the repo:
 ```sh
-git clone https://github.com/your-repositor
+git clone https://github.com/jebichii/Clinic-Database.git
 cd clinic-database
+
+# Clinical ERD
+
+![image](https://github.com/user-attachments/assets/a7345db5-113d-4f41-943e-53841968bb65)
