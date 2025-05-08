@@ -8,7 +8,11 @@ The **Clinical Booking System Database** is designed to efficiently manage patie
 ✅ Doctor Management (Specialization & availability tracking)  
 ✅ Appointment Scheduling (Create, update, cancel appointments)  
 ✅ Medical Records (Prescriptions, diagnoses)  
-✅ Payment Tracking (Bill patients & update payment status)  
+✅ Payment Tracking (Bill patients & update payment status)
+
+# ERD
+![image](https://github.com/user-attachments/assets/47e2f917-96f1-4a54-9aa1-f5df94dcb22c)
+
 
 ## 🛠️ Setup & Installation
 
@@ -16,8 +20,8 @@ The **Clinical Booking System Database** is designed to efficiently manage patie
 If using a project directory, clone the repo:
 ```sh
 git clone https://github.com/jebichii/Clinic-Database.git
-cd clinic-database
+cd clinic-Database
 
-# Clinical ERD
 
-![image](https://github.com/user-attachments/assets/a7345db5-113d-4f41-943e-53841968bb65)
+
+
